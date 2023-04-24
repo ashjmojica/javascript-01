@@ -38,3 +38,22 @@ ta = "Rayleigh"
 ta = "Gill"
 
 3. `var` is old. Don't use it.
+
+`var` stands for variable.
+`var teacher = "Joe"`
+
+You can also reassign it.
+`teacher = "Azan"`
+
+You define a variable by using the words `const, let, var`, a name for the variable, and then the = sign (assignment operator).
+
+`const nameOfVariable = whatevervalueyouwant`
+
+## Data types
+
+1. Strings
+2. Integers
+3. Floats
+4. Booleans
+5. Arrays
+6. Objects
