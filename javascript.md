@@ -57,3 +57,8 @@ You define a variable by using the words `const, let, var`, a name for the varia
 4. Booleans
 5. Arrays
 6. Objects
+
+### Strings
+Strings are anything in double quotations `""` or single quotations `''` or in javascript `` backticks.
+
+Strings are iterable. It means, you can iterate or go over each individual character of a string. You can also access an individual letter in a string by it's number. Remember, numbers in programming start at 0.

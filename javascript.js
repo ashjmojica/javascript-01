@@ -7,7 +7,7 @@ let jobTitle = "Junior Dev";
 
 const FINALBOSS = "coding interview";
 const salary = 0;
-const camelCasing
-const PascalCasing
-const snake_casing
+const camelCasing = 0;
+const PascalCasing = 0;
+const snake_casing = 0;
 
